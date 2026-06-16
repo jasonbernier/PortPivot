@@ -11,6 +11,9 @@ BANNER = """
 ██╔═══╝ ██║   ██║██╔══██╗   ██║       ██╔═══╝ ██║╚██╗ ██╔╝██║   ██║   ██║   
 ██║     ╚██████╔╝██║  ██║   ██║       ██║     ██║ ╚████╔╝ ╚██████╔╝   ██║   
 ╚═╝      ╚═════╝ ╚═╝  ╚═╝   ╚═╝       ╚═╝     ╚═╝  ╚═══╝   ╚═════╝    ╚═╝   
+
+FileZilla Server 1.12.6 FTP bounce Port Scanner PoC
+https://github.com/jasonbernier/PortPivot
 \033[0m
 
 """
