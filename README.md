@@ -61,14 +61,5 @@ client-specified destinations after a data operation was requested.
 
 * FileZilla Server 1.12.6
 
-## Responsible Disclosure
 
-This repository will remain private until the coordinated disclosure
-process concludes.
-
-## Contact
-
-Jason Bernier
-
-Security Researcher
 
